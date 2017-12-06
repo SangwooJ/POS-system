@@ -1,0 +1,7 @@
+chip 1000 001 100 
+icecream 1500 010 100 
+fruit 3000 011 100 
+water 500 100 100
+ramen 800 101 100 
+drink 1200 110 100 
+coffee 2000 111 100 
